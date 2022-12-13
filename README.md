@@ -1,4 +1,4 @@
-###### 10-drugstores
+###### 10-Drugstores
 
 <details><summary> 
 <strong>English</strong>
